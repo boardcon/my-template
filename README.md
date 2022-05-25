@@ -1,2 +1,1 @@
-# my-template
-Boardcon user manual template
+Boardcon user manual
